@@ -1,15 +1,13 @@
-# Virtual Environments
-venv/
 .env
-
-# Python Caches
+.env.example
 __pycache__/
-*.pyc
-
-# Application Data
+venv/
+*.db
 uploads/
-test_dummy.pdf
-ipo_xray.db
-
-# OS Files
+node_modules/
 .DS_Store
+dist/
+dist-ssr/
+*.local
+.npm
+ipoxray.db
