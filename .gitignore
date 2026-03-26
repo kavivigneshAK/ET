@@ -1,0 +1,15 @@
+# Virtual Environments
+venv/
+.env
+
+# Python Caches
+__pycache__/
+*.pyc
+
+# Application Data
+uploads/
+test_dummy.pdf
+ipo_xray.db
+
+# OS Files
+.DS_Store
